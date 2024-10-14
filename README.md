@@ -8,7 +8,8 @@ Current projects include...
 - <b> Fantasiki. </b> A programme for fantasy writers that allows them to create offline, internal wikipedias for their worlds. Very handy for worldbuilders.
 - <b> BO3 (Bookmark Of Our Own). </b> A chrome web extension that will keep track of your ten most recent reads on Archive Of Our Own and track your place. Once you finish a fic, it will be removed automatically. Acts as a bookmark! 
 
-I'm also a freelance graphic designer, with experience in brand and logo design. When I have time, I'll link my portfolio here!
+<b>Fun fact about me...</b>
+I'm currently learning Japanese!
 
 Thank you for visiting my profile! 
 If you need to reach me, you can email me at <i>amy.liz.emery@gmail.com</i>.
