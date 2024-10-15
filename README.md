@@ -9,7 +9,7 @@ Current projects include...
 - <b> Bo3 (Bookmark Of Our Own). </b> A chrome web extension that will keep track of your ten most recent reads on Archive Of Our Own and track your place. Once you finish a fic, it will be removed automatically. Acts as a bookmark! 
 
 <b>Fun fact about me...</b>
-I'm currently learning Japanese!
+I'm currently learning Japanese!　初めまして！
 
 Thank you for visiting my profile! 
 If you need to reach me, you can email me at <i>amy.liz.emery@gmail.com</i>.
