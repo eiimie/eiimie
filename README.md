@@ -1,4 +1,4 @@
-Hi! I'm eiimie. I'm an aspiring game designer, artist, and writer. 
+Hi! I'm eiimie. I'm an aspiring software engineer with an interest in video games. 
 
 I'm currently learning Java and C++, but I can also code in C#, Python, HTML, GDscript, and CSS. (And a bit of Javascript, too.)
 
